@@ -5,8 +5,7 @@
 #' @importFrom jsonlite fromJSON
 #' @importFrom logger log_error log_info
 #' @importFrom checkmate assert_number
-#' @examples
-#' get_usd(42)
+
 get_usdhuf <- function(retried = 0) {
   tryCatch({
     ## httr
