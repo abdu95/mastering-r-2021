@@ -4,7 +4,7 @@ Title: Demo R package for the Mastering R class
 Version: 0.1.0
 Author: Abdu Malikov
 Maintainer: MA <abdumalik2014@gmail.com>
-Description: Demo R package for the Mastering R class 
+Description: Demo R package for the Mastering R class.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
